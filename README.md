@@ -1,4 +1,5 @@
 # Robots
+[![Build Status](https://travis-ci.org/runtimerevolution/robots.png?branch=master)](https://travis-ci.org/runtimerevolution/robots)
 
 Normally in Rails there is no good way to integrate a robots.txt per environment.
 There is just one robots.txt for staging and production environment and we usually
