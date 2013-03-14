@@ -13,7 +13,7 @@ Robots is a DSL purposely made to generate robots.txt files for different enviro
 
 ## Installation
 ```sh
-gem 'robots'
+gem 'robots', :git => 'https://github.com/runtimerevolution/robots.git'
 ```
 
 ## How to Use Robots?
