@@ -92,4 +92,8 @@ end
 # Road Map:
 - add oportunity to have more than one allow and disallow collections for different user-agents
 
-This project rocks and uses MIT-LICENSE.
+# License
+Copyright © 2013 [Runtime Revolution](http://www.runtime-revolution.com), released under the MIT license.
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/fdc6753bef9fc3af71a9fe0d68aff773 "githalytics.com")](http://githalytics.com/runtimerevolution/robots)
+
